@@ -67,7 +67,7 @@ Autor
 
     Frontend Mentor - @Olyang
 
-    GitHub - @yourusername (Substitua pelo seu nome de utilizador do GitHub)
+    GitHub - @Olyang
 
 Agradecimentos
 
