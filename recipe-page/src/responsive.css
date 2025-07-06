@@ -1,0 +1,45 @@
+@media (max-width: 375px) {
+  .container {
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+  }
+
+  .omelette-image {
+    border-radius: 0;
+    margin-bottom: 30px;
+  }
+
+  .full-script {
+    padding: 0 30px 30px 30px;
+  }
+
+  .recipe-title {
+    font-size: 36px;
+  }
+
+  .section-title {
+    font-size: 24px;
+  }
+
+  .ingredients li,
+  .instructions li,
+  .preparation-time li,
+  .intro-text,
+  .nutrition p {
+    font-size: 15px;
+  }
+
+  .nutrition td:first-child {
+    padding-left: 15px;
+  }
+
+  .nutrition td:last-child {
+    padding-right: 15px;
+  }
+
+  .attribution {
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+}
